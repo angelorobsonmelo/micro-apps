@@ -1,8 +1,8 @@
 package br.com.soluevo.nikemodule
 
 import android.annotation.SuppressLint
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_nike.*
 
 class NikeActivity : AppCompatActivity() {
