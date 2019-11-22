@@ -1,0 +1,2 @@
+include ':app', ':sansungmodule', ':hpmodule', ':nikemodule'
+rootProject.name='My Application'
