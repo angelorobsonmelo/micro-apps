@@ -3,7 +3,6 @@
     package="br.com.soluevo.nikemodule">
 
     <application
-        android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".NikeActivity" />
     </application>
