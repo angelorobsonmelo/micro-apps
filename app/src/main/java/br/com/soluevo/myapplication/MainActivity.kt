@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun goToSamsungWebView() {
-        startActivity(Intent(this, NikeActivity::class.java))
+        startActivity(Intent(this, HpActivity::class.java))
     }
 }
