@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun goToSamsungWebView() {
-        startActivity(Intent(this, HpActivity::class.java))
+        startActivity(Intent(this, SansungActivity::class.java))
     }
 }
